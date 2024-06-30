@@ -109,6 +109,6 @@ src/main/resources - Contém os recursos estáticos e arquivos de configuração
 data.sql - Script SQL para inicialização do banco de dados.
 application.properties - Arquivo de configuração da aplicação.
 ```
-## Outra Versão desse mesmo Projeto sem usar Spring Boot
+## Outra versão desse mesmo Projeto sem usar Spring Boot
 
 ```https://github.com/sheilapaiva/gestao-funcionarios ```
