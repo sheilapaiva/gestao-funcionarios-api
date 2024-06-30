@@ -1,4 +1,4 @@
-# Gestão de Funcionários
+# Gestão de Funcionários API
 
 Este projeto é uma aplicação Spring Boot para a gestão de funcionários, utilizando um banco de dados H2 em memória e com documentação de API gerada pelo Swagger.
 
@@ -100,7 +100,7 @@ Password: (deixe em branco)
 ```
 Acesse a documentação Swagger:
 ```
-Abra seu navegador e vá para http://localhost:8080/api/swagger-ui.html
+Abra seu navegador e vá para http://localhost:8080/api/swagger-ui/index.html#/
 ```
 Estrutura do Projeto
 ```
